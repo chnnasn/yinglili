@@ -1,4 +1,7 @@
 /* 手机端样式 */
+main{
+	padding-top: 270px;
+}
 header nav{
 	margin: 0.5rem 0 0.5rem;
 }
@@ -93,11 +96,15 @@ footer p{
 }
 /* 平板端样式 */
 @media(min-width:768px){
+main{
+	padding-top:90px;
+}
 .wenhua p{
 	font-size: 2rem;
 	padding-bottom: 2rem;
 }
 .wenhua img{
+	width: 50%;
 	border-radius: 25px;
 }
 nav ul{
