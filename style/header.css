@@ -1,5 +1,5 @@
 header{
-	background-color:skyblue;
+	width: 100%;
 	position: fixed;
 	background-color:skyblue;
 	z-index: 100; /* 确保导航栏在内容上方 */
