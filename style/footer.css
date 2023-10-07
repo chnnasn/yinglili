@@ -1,0 +1,7 @@
+footer{
+	width: 1334px;
+	margin: 0 auto;
+}
+p :last-child{
+	float: right;
+}

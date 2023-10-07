@@ -1,0 +1,40 @@
+.img{
+	padding-top: 20px;
+	padding-bottom: 30px;
+	background-color: #ccc;
+}
+.h a{
+	font-size: 2rem;
+	background-color: #66a0e9;
+	opacity: 0.6;
+}
+.z a {
+	font-size: 2rem;
+	background-color: #e9647f;
+	opacity: 0.6;
+}
+.zzz{
+	font-size: 3rem;
+	margin-bottom:1rem;
+}
+.shu  a, .jian a{
+	margin-bottom: 1rem;
+}
+.table{
+	background-image: url(../images/footer.png);
+}
+.wenhua2{
+	font-size: 1.5rem;
+}
+.h a {
+	color:black;
+}
+.z a {
+	color:black;
+}
+.h a:hover{
+	color:white;
+}
+.z a:hover{
+	color:white;
+}
